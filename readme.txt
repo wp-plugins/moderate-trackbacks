@@ -1,0 +1,1 @@
+Just upload to your plugin folder and activate through the WordPress Admin.
