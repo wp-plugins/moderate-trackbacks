@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Moderate Trackbacks
-Plugin URI: http://mtdewvirus.com/code/
+Plugin URI: http://mtdewvirus.com/code/wordpress-plugins/
 Description: Puts trackbacks not marked as 'spam' into moderation.
 Author: Nick Momrik
 Version: 1.21
