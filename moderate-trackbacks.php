@@ -4,7 +4,7 @@ Plugin Name: Moderate Trackbacks
 Plugin URI: http://mtdewvirus.com/code/
 Description: Puts trackbacks not marked as 'spam' into moderation.
 Author: Nick Momrik
-Version: 1.2
+Version: 1.21
 Author URI: http://mtdewvirus.com/
 */ 
 
@@ -17,5 +17,5 @@ function mdv_moderate_trackback($approved) {
 	return $approved;
 }
 
-add_filter('pre_comment_approved', 'mdv_moderate_trackback');
+add_filter('pre_comment_approved', 'mdv_moderate_trackback', 20);
 ?>
