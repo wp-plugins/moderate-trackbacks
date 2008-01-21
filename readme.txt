@@ -1,1 +1,1 @@
-Just upload to your plugin folder and activate through the WordPress Admin.
+=== Moderate Trackbacks ===Contributors: mtdewvirusTags: moderate, trackbacksStable tag: trunkAutomatically puts all trackbacks into the comment moderation queue.== Installation ==1. Upload `moderate-trackbacks.php` to the `/wp-content/plugins/` directory1. Activate the plugin through the 'Plugins' menu in WordPress
