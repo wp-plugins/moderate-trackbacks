@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Moderate Trackbacks
-Plugin URI: http://mtdewvirus.com/code/wordpress-plugins/
+Plugin URI: http://wordpress.org/extend/plugins/moderate-trackbacks/
 Description: Puts trackbacks not marked as 'spam' into moderation.
 Author: Nick Momrik
 Version: 1.21
-Author URI: http://mtdewvirus.com/
+Author URI: http://nickmomrik.com/
 */ 
 
 function mdv_moderate_trackback($approved) {
